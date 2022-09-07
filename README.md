@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fedastic
-- 👀 I’m interested in Web Developing and Web Design
+- 👀 I’m interested in Web Developing and becoming a full stack dev
 - 🌱 I’m currently learning Ruby on Rails, ReactJS, React Native and Java
 - 📫 How to reach me Email me cacayjaison@gmail.com
 
